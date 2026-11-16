@@ -1,0 +1,5 @@
+binance_data.tar.gz
+__pycache__/
+fetch.log*
+.run.lock
+first_fetch.out
