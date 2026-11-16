@@ -47,7 +47,7 @@ fi
 
 # Push whenever there is anything the remote lacks (covers an earlier failed push).
 if [ "$(git rev-parse HEAD 2>/dev/null)" != "$(git rev-parse -q --verify refs/remotes/origin/main 2>/dev/null)" ]; then
-    if git push -q origin main; then
+    if timeout 600 git push -q origin main; then
         echo "$(now) pushed $(git rev-parse --short HEAD)"
     else
         echo "$(now) PUSH FAILED"
