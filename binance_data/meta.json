@@ -25,86 +25,86 @@
   "https://data-api.binance.vision",
   "https://fapi.binance.com"
  ],
- "fetched_at_utc": "2026-11-24T07:05:39Z",
+ "fetched_at_utc": "2026-11-25T09:40:59Z",
  "last_run": {
   "BTCUSDT": {
-   "new_1h_candles": 2,
-   "new_funding_rows": 0
+   "new_1h_candles": 26,
+   "new_funding_rows": 4
   },
   "ETHUSDT": {
-   "new_1h_candles": 2,
-   "new_funding_rows": 0
+   "new_1h_candles": 26,
+   "new_funding_rows": 4
   },
   "SOLUSDT": {
-   "new_1h_candles": 2,
-   "new_funding_rows": 0
+   "new_1h_candles": 26,
+   "new_funding_rows": 4
   },
   "ZECUSDT": {
-   "new_1h_candles": 2,
-   "new_funding_rows": 0
+   "new_1h_candles": 26,
+   "new_funding_rows": 4
   },
   "XRPUSDT": {
-   "new_1h_candles": 2,
-   "new_funding_rows": 0
+   "new_1h_candles": 26,
+   "new_funding_rows": 4
   },
   "BNBUSDT": {
-   "new_1h_candles": 2,
-   "new_funding_rows": 0
+   "new_1h_candles": 26,
+   "new_funding_rows": 4
   },
   "ASTERUSDT": {
-   "new_1h_candles": 2,
-   "new_funding_rows": 0
+   "new_1h_candles": 26,
+   "new_funding_rows": 7
   },
   "NVDABUSDT": {
-   "new_1h_candles": 2,
+   "new_1h_candles": 26,
    "new_funding_rows": 0
   },
   "NEARUSDT": {
-   "new_1h_candles": 2,
-   "new_funding_rows": 0
+   "new_1h_candles": 26,
+   "new_funding_rows": 4
   },
   "DOGEUSDT": {
-   "new_1h_candles": 2,
-   "new_funding_rows": 0
+   "new_1h_candles": 26,
+   "new_funding_rows": 4
   },
   "SOXLBUSDT": {
-   "new_1h_candles": 2,
+   "new_1h_candles": 26,
    "new_funding_rows": 0
   },
   "PEPEUSDT": {
-   "new_1h_candles": 2,
+   "new_1h_candles": 26,
    "new_funding_rows": 0
   },
   "HYPEUSDT": {
-   "new_1h_candles": 2,
-   "new_funding_rows": 0
+   "new_1h_candles": 26,
+   "new_funding_rows": 7
   },
   "RWUSDUSDT": {
-   "new_1h_candles": 2,
+   "new_1h_candles": 26,
    "new_funding_rows": 0
   },
   "UNIUSDT": {
-   "new_1h_candles": 2,
-   "new_funding_rows": 0
+   "new_1h_candles": 26,
+   "new_funding_rows": 4
   },
   "ENAUSDT": {
-   "new_1h_candles": 2,
-   "new_funding_rows": 0
+   "new_1h_candles": 26,
+   "new_funding_rows": 7
   },
   "XAUTUSDT": {
-   "new_1h_candles": 2,
-   "new_funding_rows": 0
+   "new_1h_candles": 26,
+   "new_funding_rows": 7
   },
   "MUBUSDT": {
-   "new_1h_candles": 2,
+   "new_1h_candles": 26,
    "new_funding_rows": 0
   },
   "SUIUSDT": {
-   "new_1h_candles": 2,
-   "new_funding_rows": 0
+   "new_1h_candles": 26,
+   "new_funding_rows": 4
   },
   "SPCXBUSDT": {
-   "new_1h_candles": 2,
+   "new_1h_candles": 26,
    "new_funding_rows": 0
   }
  }
