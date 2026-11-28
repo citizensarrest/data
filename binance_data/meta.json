@@ -25,7 +25,7 @@
   "https://data-api.binance.vision",
   "https://fapi.binance.com"
  ],
- "fetched_at_utc": "2026-11-28T09:05:34Z",
+ "fetched_at_utc": "2026-11-28T10:05:33Z",
  "last_run": {
   "BTCUSDT": {
    "new_1h_candles": 1,
