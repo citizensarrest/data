@@ -25,7 +25,7 @@
   "https://data-api.binance.vision",
   "https://fapi.binance.com"
  ],
- "fetched_at_utc": "2026-11-28T11:05:36Z",
+ "fetched_at_utc": "2026-11-28T12:05:34Z",
  "last_run": {
   "BTCUSDT": {
    "new_1h_candles": 1,
@@ -53,7 +53,7 @@
   },
   "ASTERUSDT": {
    "new_1h_candles": 1,
-   "new_funding_rows": 0
+   "new_funding_rows": 1
   },
   "NVDABUSDT": {
    "new_1h_candles": 1,
@@ -77,7 +77,7 @@
   },
   "HYPEUSDT": {
    "new_1h_candles": 1,
-   "new_funding_rows": 0
+   "new_funding_rows": 1
   },
   "RWUSDUSDT": {
    "new_1h_candles": 1,
@@ -89,11 +89,11 @@
   },
   "ENAUSDT": {
    "new_1h_candles": 1,
-   "new_funding_rows": 0
+   "new_funding_rows": 1
   },
   "XAUTUSDT": {
    "new_1h_candles": 1,
-   "new_funding_rows": 0
+   "new_funding_rows": 1
   },
   "MUBUSDT": {
    "new_1h_candles": 1,
