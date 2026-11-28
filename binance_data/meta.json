@@ -25,35 +25,35 @@
   "https://data-api.binance.vision",
   "https://fapi.binance.com"
  ],
- "fetched_at_utc": "2026-11-28T08:05:37Z",
+ "fetched_at_utc": "2026-11-28T09:05:34Z",
  "last_run": {
   "BTCUSDT": {
    "new_1h_candles": 1,
-   "new_funding_rows": 1
+   "new_funding_rows": 0
   },
   "ETHUSDT": {
    "new_1h_candles": 1,
-   "new_funding_rows": 1
+   "new_funding_rows": 0
   },
   "SOLUSDT": {
    "new_1h_candles": 1,
-   "new_funding_rows": 1
+   "new_funding_rows": 0
   },
   "ZECUSDT": {
    "new_1h_candles": 1,
-   "new_funding_rows": 1
+   "new_funding_rows": 0
   },
   "XRPUSDT": {
    "new_1h_candles": 1,
-   "new_funding_rows": 1
+   "new_funding_rows": 0
   },
   "BNBUSDT": {
    "new_1h_candles": 1,
-   "new_funding_rows": 1
+   "new_funding_rows": 0
   },
   "ASTERUSDT": {
    "new_1h_candles": 1,
-   "new_funding_rows": 1
+   "new_funding_rows": 0
   },
   "NVDABUSDT": {
    "new_1h_candles": 1,
@@ -61,11 +61,11 @@
   },
   "NEARUSDT": {
    "new_1h_candles": 1,
-   "new_funding_rows": 1
+   "new_funding_rows": 0
   },
   "DOGEUSDT": {
    "new_1h_candles": 1,
-   "new_funding_rows": 1
+   "new_funding_rows": 0
   },
   "SOXLBUSDT": {
    "new_1h_candles": 1,
@@ -77,7 +77,7 @@
   },
   "HYPEUSDT": {
    "new_1h_candles": 1,
-   "new_funding_rows": 1
+   "new_funding_rows": 0
   },
   "RWUSDUSDT": {
    "new_1h_candles": 1,
@@ -85,15 +85,15 @@
   },
   "UNIUSDT": {
    "new_1h_candles": 1,
-   "new_funding_rows": 1
+   "new_funding_rows": 0
   },
   "ENAUSDT": {
    "new_1h_candles": 1,
-   "new_funding_rows": 1
+   "new_funding_rows": 0
   },
   "XAUTUSDT": {
    "new_1h_candles": 1,
-   "new_funding_rows": 1
+   "new_funding_rows": 0
   },
   "MUBUSDT": {
    "new_1h_candles": 1,
@@ -101,7 +101,7 @@
   },
   "SUIUSDT": {
    "new_1h_candles": 1,
-   "new_funding_rows": 1
+   "new_funding_rows": 0
   },
   "SPCXBUSDT": {
    "new_1h_candles": 1,
